@@ -1,7 +1,6 @@
 {
 	"keynotes" : 
-	{
-		"day_1": 
+	[
 		[
 		  {
 		    "speaker": {
@@ -30,7 +29,6 @@
 		    "img" : "https://i.imgur.com/YYGUBlA.jpg"
 		  }
 		],
-		"day_2" : 
 		[
 		  {
 		    "speaker": {
@@ -59,5 +57,5 @@
 		    "img": "https://i.imgur.com/biOr8P6.jpg"
 		  }
 		]
-	}
+	]
 }
