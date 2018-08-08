@@ -1,6 +1,5 @@
 {
 	"keynotes" : 
-	[
 		[
 		  {
 		    "speaker": {
@@ -27,9 +26,7 @@
 		    "day": 1,
 		    "confirmed": true,
 		    "img" : "https://i.imgur.com/YYGUBlA.jpg"
-		  }
-		],
-		[
+		  },
 		  {
 		    "speaker": {
 		      "name": "Prof. Evan Berman",
@@ -57,5 +54,4 @@
 		    "img": "https://i.imgur.com/biOr8P6.jpg"
 		  }
 		]
-	]
 }
